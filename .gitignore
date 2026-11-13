@@ -1,0 +1,33 @@
+
+# Dataset
+data/original/*
+data/clean/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Variables d'environnement et secrets
+.env
+.env.*
+
+# Logs
+*.log
