@@ -1,7 +1,6 @@
 
 # Dataset
-datasets/original/*
-datasets/clean/*
+*csv 
 
 # Environnement virtuel
 .venv/
