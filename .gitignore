@@ -2,6 +2,11 @@
 # Dataset
 *csv 
 
+#Streamlit
+app/reponses.csv
+
+.pkl
+
 # Environnement virtuel
 .venv/
 venv/
