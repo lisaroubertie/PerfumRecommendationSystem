@@ -30,3 +30,5 @@ Nous avons donc exporté les fonctions nécessaires pour faire tourner le modèl
 ### L'interface
 
 Notre interface a été faite sur Streamlit. Un questionnaire simple est proposé à l'utilisateur qui peut ensuite lancer l'analyse et voir ses recommandations personnalisées. Un top 3 apparait, ainsi que 2 graphiques permettant d'analyser les résultats proposés selon les catégories choisies par l'utilisateur.
+
+Pour lancer l'interface, placez-vous à la racine du projet et exécutez `streamlit run app/interface.py`. Assurez-vous d'avoir téléchargez les fichiers correspondants au modèle au préalable, ainsi que les datasets.
